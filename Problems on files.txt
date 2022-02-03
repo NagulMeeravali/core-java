@@ -1,0 +1,94 @@
+Topic-4: File handling using ByteStreams:
+------------------------------------------
+1. Write a Java program to get a list of all file/directory names from the given using File class object.
+
+2. Write a Java program to read data from input file and convert into uppercase then write data into output file using FileInputStream and FileOutputStream classes. Handle IOException while reading and writing data.
+Input:Create text file and write some data to the file. Sample data: "Hi, this is Sample data"
+
+Sample output: HI, THIS IS SAMPLE DATA
+
+3. Write a Java program to read data from input file and convert all the characters into swapcase then write into output file using FileInputStream and FileOutputStream classes.
+
+Input:Create text file and write some data to the file. Sample data: "Hi, This is Sample data"
+Output: hI,tHIS IS sAMPLE DATA
+
+4. Write a java program to count the list of files based their extension using File class. display following files count on console. 
+   ==> Number of text files
+   ==> Number of document files
+   ==> Number of image files
+   ==> Number of other files
+
+Input: Create folder and create different files such as document,pdf,image and text files.
+
+Sample Output: 
+    Number of text files     :5
+    Number of document files :3
+    Number of image files    :4
+    Number of other files    :3
+
+5. Write a Java program to accept directory name, file name from user. do the following steps using File class.
+==>create directory with user entered direcory name
+==>Create file in given directory.
+==> accept one sentence about bitLabs and store in give file using FileOutputStream class.
+==> Read data from given file and display read data on console using FileInputStream class.
+
+Topic-5: File handling using character streams:
+-------------------------------------------------
+1. Write a Java program to print list of repeated words and list of non-repeated words in a given file.and print number of repeated words and number of non=repeated words.
+input: Create text file and write some data to the file.
+
+output:
+   Repeated words: 
+                 // Display all words which are repeating
+   Number of repeated words: 33
+   Non-Reapeated Words: 
+                 // Display all words which are not repeating
+   Number of  repeated words: 12
+
+2. Write a program to read data from a file and find the frequency of each word in a file. and print each word along with frequency in sorted order.
+
+
+input: Create text file and write some data to the file.
+
+Output:
+
+      word 1: top frequency
+            :
+            :
+            :
+      Word n:  least frequency
+
+3. Write a Java program to find the longest word and smallest word in a text file.
+
+Input: Create text file and write some data to the file. Sample data: "Welcome to bitLabs"
+
+Ouput: 
+
+Longest word: Welcome
+Smallest word: to
+
+4. Write a Java program to read data from input file and find word count in each line and logest word in each line. handle IOException while reading data from input file.
+Input: Create text file and write some data to the file.
+Expected Output:
+Number of words in line number1: 4 and logest word is: "     "  (Print logest word in first line)
+'
+'
+'
+Number of words in line number n: 7 and logest word is: "     "  (Print logest word in last line)
+
+5. Write a Java program accept 5 students details such as name and marks and store in studentdetails.txt file in below format
+     Ramu, 60
+     Kumar,56
+     Rakesh,89
+     Suresh,66
+Read data from studentdetails.txt file and print Student name and marks who got top score. 
+
+       
+
+
+
+  
+
+
+ 
+
