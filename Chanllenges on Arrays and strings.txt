@@ -1,0 +1,26 @@
+Arrays:
+--------
+1. WAP to store +ve and -ve values in two different arrays.
+2. WAP to find the given element is present in the given array or not.
+3. WAP to delete first occurance of seach element in the given array.
+4. WAP to delete Last occurance of seach element in the given array.
+5. WAP to delete ALL the occurance of seach element in the given array.
+6. WAP to insert an element in specific index position
+7. WAP to insert an element in 0th index position.
+8. WAP to print prime numbers in the given array.
+9. WAP to print sum of even numbers and sum of odd numbers in the given array.
+10.WAP to find min,second min, max and second max, average and total of given array.
+
+Strings:
+--------
+11. WAP to print reverse of a given string
+12. WAP to check given string is palindrome or not.
+13. WAP to print number of words in a given string.
+14. WAP to print words reverse of a given string.
+15. WAP to print number of alphabets in each word of a given string.
+16. WAP to print number of vowels and number of consonents of each word in a given string.
+17. WAP to print number of digits, alphabets and special characters in a given string.
+18. WAP to find logest word in a given string.
+19. WAP to find smallest word in a given string.
+20. WAP to print palindrome words in a given string.
+
