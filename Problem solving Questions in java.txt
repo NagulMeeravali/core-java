@@ -1,0 +1,118 @@
+Problem solving – Basic Level:
+1 WAP to accept two numbers and print addition, subtraction, multiplication, and division of those two numbers.
+
+2 WAP to accept 3 subjects marks and print total marks and avg marks.
+
+3.  WAP to accept salary and 3 shopping bills from user and find 
+   1. total shopping amount
+   2. find how much % of amount he/she spent on shopping on his salary.
+
+4 WAP to accept basic salary and find gross salary.
+ Gross_salary= basic+HRA+DA
+ DA is 80% on basic
+ HRA is 76% on basic
+
+5 WAP to accept project marks, internal marks and external marks and find 
+ total marks.
+total_marks= 70% from project+ 20% from external +10% from internal
+
+6 WAP to accept number and check it is +ve or -ve 
+7 WAP to accept number and check it is Even or odd
+8 WAP to accept number and check it is Even or odd or Zero
+9 WAP to accept week_number and print weekday
+    1 -- monday
+    2. tuesday
+    7 sunday
+10. WAP to accept basic salary and find gross salary.
+  Gross_salary= basic+HRA+DA
+    if basic salary <10000
+          DA is 70% on basic
+          HRA is 65% on basic 
+   basic salary is between 10000 to 20000
+         DA is 75% on basic
+         HRA is 73% on basic
+   basic salary above 20000
+         DA is 80% on basic
+          HRA is 76% on basic
+
+11. WAP to accept 3 numbers and find max number
+12.WAP to accept units from user and find the bill.
+  for first 50 units the charges are: 0.75p/u
+  next 100 units the charges are: 2.10p/u
+  next 100 units the charges are : 2.50p/u
+  above 250 units the charges are: 2.80p/u
+
+13. WAP to accept withdraw amount and print number of notes.
+consider we have 500, 200 and 100 rupees notes.
+
+14. WAP to accept project marks, external marks, internal marks from student,
+   --> check if student got pass in project, internal and externals. 
+    Note: pass mark is : 50
+   --> if student got pass in project, internal and external then find total score.
+     total_score= 70% from project+ 20% from external + 10% internal 
+   --> print grades based on total_score
+        total_score >=90    --> A grade
+		75--90      --> B grade
+                50- 75      --> C grade
+   ---> print failed subject name along with the score.
+						
+15. WAP to accept withdraw amount and print number of notes:
+       200,100,50,20,10
+16. sum of even numbers and sum of odd numbers between 1-n
+17. WAP to accept 6 values and find big number.
+18. WAP to accept 6 values and find max and second max value
+19. WAP to search given element is present in list or not
+20. WAP to count number of occurrences of search element.
+Sample input:
+list=[23,45,56,23,23,90,77]
+search elements: 23
+Expected output: 3
+21.  WAP to print following patten. 
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+22.  WAP to print following patten. 
+1 0 1 0 1
+1 0 1 0 1
+1 0 1 0 1
+1 0 1 0 1
+1 0 1 0 1
+23.  WAP to print following patten. 
+1 1 1 1 1
+0 0 0 0 0
+1 1 1 1 1
+0 0 0 0 0
+1 1 1 1 1
+24. WAP to print following patten.
+10 11 12 13 14
+15 16 17 18 19
+20 21 22 23 24 
+25 26 27 28 29
+30 31 32 33 34
+
+25. WAP to print following patten.
+10 11 12 13 14
+90 89 88 87 86 
+15 16 17 18 19
+85 84 83 82 81
+20 21 22 23 24
+
+26. WAP to print following patten.
+ 
+27. WAP to print duplicate elements in a given list.
+list=[23,45,65,90,45,23]
+    output:  23  45
+28. WAP to print unique elements in a given list
+list=[23,45,65,90,45,23]
+      output:    65 90
+29. WAP to print frequency of each element in a given list
+Sample input: 
+       list=[23,45,65,90,45,23]
+      output:    
+              23 frequency is: 2
+              45 frequency is: 2
+              65 frequency is: 1
+              90 frequency is: 1
+30. WAP to print sorting order (ASC/DESC) of a given list
